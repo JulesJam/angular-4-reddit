@@ -1,3 +1,7 @@
+#Jules Jam's first Angular 4 project
+
+Having learnt Angular 1 whilst at General Assembly I have decided its time to upgrade my skills and am relearning from scratch using FullStack.io' Angular 4 Book. Here is my first project 
+
 # AngularReddit
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.0.
