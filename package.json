@@ -2,7 +2,7 @@
   "name": "angular-reddit",
   "version": "0.0.0",
   "license": "MIT",
-  "main": "main",
+  "main": "app.js",
   "scripts": {
     "ng": "ng",
     "start": "node serve",
