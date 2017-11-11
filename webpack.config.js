@@ -1,5 +1,5 @@
 module.exports = {
-  entry: "main.ts",
+  entry: "/dist/main.ts",
   output: {
     path: __dirname,
     filename: "main.js"
