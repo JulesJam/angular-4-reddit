@@ -10,8 +10,8 @@
     "test": "ng test",
     "lint": "ng lint",
     "e2e": "ng e2e",
-    "postinstall": "ng build -prod"
-    
+    "postinstall": "ng build -prod",
+    "postinstall": "node_modules/.bin/webpack"
   },
   "private": true,
   "engines": {
