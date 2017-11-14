@@ -6,7 +6,9 @@ module.exports = {
   },
   module: {
     loaders: [
-        { test: /.ts$/,
+        { test: function (modulePath) {
+                return modulePath.endsWith('.ts') && !modulePath.endsWith('spec.ts');
+                }
           loader: 'ts-loader',
         }
     ]
